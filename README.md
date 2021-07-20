@@ -5,7 +5,7 @@ Scientific showcase and images for everything2
 [everything2] is a fantastic site. It's also old, and has never
 supported images.
 
-Sometimes, some of the writeups there could---indeed *should*---benefit
+Sometimes, some of the writeups there could&mdash;indeed *should*&mdash;benefit
 from properly formatted mathematical formulae and
 programatically-created images.
 
